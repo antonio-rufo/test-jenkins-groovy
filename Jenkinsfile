@@ -1,7 +1,5 @@
 #!/usr/bin/env groovy
 
-@Library('lto-jenkins-pipeline-library@master') _
-
 pipeline {
     agent none
     environment {
